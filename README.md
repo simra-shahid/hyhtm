@@ -1,7 +1,7 @@
 # HyHTM: Hyperbolic Geometry Based Hierarchical Topic Models
 
 HyHTM is an implementation of a hierarchical topic modeling algorithm using hyperbolic geometry. 
-The algorithm is described in detail in the paper [Add paper link].
+The algorithm is described in detail in [the paper](https://aclanthology.org/2023.findings-acl.742/).
 
 #### Installation
 To set up the environment for the HyHTM code, please follow these steps:
